@@ -9,10 +9,25 @@ to progress your level in this game. This game will make you believe in yourself
 decision making ability.
 
 ### RESEARCH
+Dungeons & Dragons is a fantasy tabletop role-playing game originally designed by Gary Gygax and Dave Arneson. 
+It was first published in 1974 by Tactical Studies Rules, Inc. This role playing concept inspired many other to
+create such role playing in different games.
 
-
-
+## FEATURES
+1. You can name your charchter.
+2. Make your own decision by selectingfrom one of the options. 
 
 
 
 ![cp](https://sm.ign.com/ign_in/feature/h/how-to-sta/how-to-start-playing-dungeons-dragons_t3ms.jpg)
+
+## 4W's & 1H
+ 
+## When
+   Can be played anytime
+   
+## What
+   Virtual medium to play the game
+
+## Where
+   Can be played from anywhere pc or mobile phone
