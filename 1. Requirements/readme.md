@@ -21,6 +21,10 @@ create such role playing in different games.
 
 ![cp](https://sm.ign.com/ign_in/feature/h/how-to-sta/how-to-start-playing-dungeons-dragons_t3ms.jpg)
 
+## SWOT ANALYSIS
+
+![Swot analysis](https://user-images.githubusercontent.com/94234340/142841346-cf78f218-9b77-4a85-b0c2-c9fb8b4289b9.png)
+
 ## 4W's & 1H
  
 ## When
@@ -30,4 +34,30 @@ create such role playing in different games.
    Virtual medium to play the game
 
 ## Where
-   Can be played from anywhere pc or mobile phone
+   Can be played from anywhere on pc.
+## Who
+   People of every age can play this game.
+## How   
+1. Select Your location.
+2. Select your HP power level.
+3. Selectthe direction to proceed further in the game.
+4. By chosing direction go through dungeons fight dragons, and save the princess. 
+
+## DETAIL REQUIREMENTS
+## *High Level Requirements* 
+ID  | DESCRIPTION                           | STATUS
+----|---------------------------------------|-------
+HR01| Providing game level to be Selected     | IMPLEMENTED
+HR02| As the player, Choose your HP power | IMPLEMENTED
+HR03| Choose your Way/Direction in the game | IMPLEMENTED
+HR04| Map option to see your location during game | IMPLEMENTED
+HR05| Providing a player some enemies with certain HP level | IMPLEMENTED
+HR06| Player killed or finding princess option | IMPLEMENTED
+## *Low Level Requirements* 
+ID  | DESCRIPTION                           | STATUS
+----|---------------------------------------|-------
+LR01| View Menu / Direct Quit    | IMPLEMENTED
+LR02| View Map | IMPLEMENTED
+LR03| Calculating HP level After each level | IMPLEMENTED
+LR04| Select Directions and find princess | IMPLEMENTED
+LR05| QUIT | IMPLEMENTED
