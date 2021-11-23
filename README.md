@@ -31,3 +31,7 @@
 |3 | Creating github Workflows | By Code Inspection |
 |4 | Pushing files and folders to repository by Git bash | By removing all the previous pushed files and folders |
 
+## Badges
+[![cppcheck-action-test](https://github.com/SanketWalke8498/m001_Game_dungeons-dragons/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SanketWalke8498/m001_Game_dungeons-dragons/actions/workflows/cppcheck.yml)
+Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
+![](https://api.codiga.io/project/29841/status/svg)
