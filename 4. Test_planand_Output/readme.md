@@ -15,6 +15,3 @@
 |  L_03    |  Giving prisoner option inventory | Inventory list displayed| Matched | Requirement based   |
 |  L_04    |  Getting kiilled for HP=0 is displayed| game over gets displayed | Matched | Requirement based   |
 |  L_02       |Princess found displayed | game over display |Matched | Requirement based   |
-
-
-
