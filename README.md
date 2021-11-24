@@ -32,6 +32,7 @@
 |4 | Pushing files and folders to repository by Git bash | By removing all the previous pushed files and folders |
 
 ## Badges
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/66667e5a35884b3d9b80f9c44b692242)](https://app.codacy.com/gh/SanketWalke8498/m001_Game_dungeons-dragons?utm_source=github.com&utm_medium=referral&utm_content=SanketWalke8498/m001_Game_dungeons-dragons&utm_campaign=Badge_Grade_Settings)
 [![cppcheck-action-test](https://github.com/SanketWalke8498/m001_Game_dungeons-dragons/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SanketWalke8498/m001_Game_dungeons-dragons/actions/workflows/cppcheck.yml)
 Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
 ![](https://api.codiga.io/project/29841/status/svg)
