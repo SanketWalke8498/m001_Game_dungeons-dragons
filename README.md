@@ -1,4 +1,10 @@
 # MiniProject_Sanket_Walke
+## Badges
+[![cppcheck-action-test](https://github.com/SanketWalke8498/m001_Game_dungeons-dragons/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SanketWalke8498/m001_Game_dungeons-dragons/actions/workflows/cppcheck.yml)
+Code Inspector-   ![](https://api.codiga.io/project/29841/score/svg)
+![](https://api.codiga.io/project/29841/status/svg)
+Codacy-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7fcf56e706c0432b98c3e9928cade511)](https://www.codacy.com/gh/SanketWalke8498/m001_Game_dungeons-dragons/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SanketWalke8498/m001_Game_dungeons-dragons&amp;utm_campaign=Badge_Grade)
+
 ## *Dungeons And Dragons ~ The game*
 ![5e1ee46fe5bbe9c0635ce917fe29f8c2](https://user-images.githubusercontent.com/94234340/142875271-9c1d8cb2-b585-4123-9a14-189ab7eea954.jpg)
 
@@ -35,3 +41,4 @@
 [![cppcheck-action-test](https://github.com/SanketWalke8498/m001_Game_dungeons-dragons/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SanketWalke8498/m001_Game_dungeons-dragons/actions/workflows/cppcheck.yml)
 Code Inspector-   ![](https://api.codiga.io/project/29841/score/svg)
 ![](https://api.codiga.io/project/29841/status/svg)
+Codacy-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/7fcf56e706c0432b98c3e9928cade511)](https://www.codacy.com/gh/SanketWalke8498/m001_Game_dungeons-dragons/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SanketWalke8498/m001_Game_dungeons-dragons&amp;utm_campaign=Badge_Grade)
